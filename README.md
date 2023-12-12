@@ -27,7 +27,7 @@ Email: hoehndorf.nathan@gmail.com
 
 ---
 ## Projects: 
-- Final Project - insert pitbull link
+- Final Project - [How Pitbull Is It?](https://github.com/nxthyn/How-Pitbull-Is-It.git)
 	 - "How Pitbull Is It?" is a project where a person inputs a word, and the output is a number 1-10, rating how "Pitbull" a word is based on how many times he has said it. The project was made by collecting all of Pitbull's lyrics and puttting them into a .csv file, which is then traversed every time the program runs to count.
 	- I learned the basics of Web Scraping in Python and database management in mySQL in order to make my project more efficient. I did not end up using either of those skills during the final draft of the project, however they were valuable lessons to learn.
 
