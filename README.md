@@ -18,26 +18,32 @@ Email: hoehndorf.nathan@gmail.com
 * My ability to document my program and communicate/collaborate with others while programming was basically non-existent before I took this course. I got lots of valuable practice working with others and I feel like I am at the very least a competent collaborator now when I am programming.
 
 ### Workforce Readiness
-- With such an emphasis on workplace readiness throughout the entire school, there were many resources to improve my skills at my disposal. 
+- With such an emphasis on workplace readiness throughout the entire school, there were many resources to improve my skills at my disposal. My ability to stay in the uniform, be on time, communicate with others, and create a good product were all massively improved by the environment that was fostered at EPIC. I feel significantly more ready to both go to college and start my career with the skills I have picked up.
 
 ### Professional Experiences
 - Work Site tours
-- Job shadowing
-- Conferences
-- Professional Organizations
+  	- I went on a tour of System76, a computer manufacturer, and I learned more about how the floor process works in the shop, and all of the different moving parts (actual people and literal robots) that go into the process.
+  	- I attended SC23, the 2023 Supercomputing conference in Denver this year. In that experience I learned more about applications of supercomputing, the basics of quantum computing, and the many fields that computer science has paired with.
 
 ---
 ## Projects: 
--  Morse Code - *link to your repo*
-	- Describe the project and it's purpose
-	- Describe what skills you used and what you learned during this project
-- Final Project - *link to your repo*
-	 - Describe the project and it's purpose
-	- Describe what skills you used and what you learned during this project
+- Final Project - insert pitbull link
+	 - "How Pitbull Is It?" is a project where a person inputs a word, and the output is a number 1-10, rating how "Pitbull" a word is based on how many times he has said it. The project was made by collecting all of Pitbull's lyrics and puttting them into a .csv file, which is then traversed every time the program runs to count.
+	- I learned the basics of Web Scraping in Python and database management in mySQL in order to make my project more efficient. I did not end up using either of those skills during the final draft of the project, however they were valuable lessons to learn.
 
 
 ---
 
 ## Education
+- Attended Arapahoe High School
+- Attended EPIC Campus
+- Attended Arapahoe Community College
+- Admitted into Colorado School of Mines
 ## Awards and Certifications
+- 3rd Place Novice Division at Lockheed Martin CodeQuest 2023
+- Soon to be CompTIA A+ certified
 ## Skills
+- Competency in Java programming language
+- Competency in Python programming language
+- Basic understanding of C++, C#, C, Javascript (including Node.js), and SQL programming languages
+- Basic understanding of HTML, CSS, Javascript, and PHP -- general understanding of web development
